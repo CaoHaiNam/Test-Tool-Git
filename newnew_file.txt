@@ -2,3 +2,4 @@ vcl
 hello
 kbot
 kbot 01
+kbot 02
