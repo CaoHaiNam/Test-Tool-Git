@@ -1,3 +1,0 @@
-milvus collection
-recognize as the most active contributor
-the largest open source vector db.
